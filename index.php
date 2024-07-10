@@ -17,7 +17,8 @@ include('includes/dbconnection.php');
 </head>
 <body>
 		<?php include_once('includes/header.php');?>
-			<a class="header-banner">
+
+			<span class="header-banner">
 				<div class="container">
 					<div class="head-banner">
 						<h3>Visit to a Zoo</h3>
